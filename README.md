@@ -8,3 +8,5 @@
 
 3. Simple instancing
   - THP 494 & 598 | Simple Instancing | TouchDesigner (https://youtu.be/5X56iGWoZZs)
+
+4. Select movies or musics in folder
